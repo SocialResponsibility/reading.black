@@ -5,6 +5,9 @@ author: Jonny Huck
 date: 2023-11-28
 ---
 
+* [Politics, governance, management, and development](#politics-governance-management-and-development)
+* [Environment, resources, livelihood, and development](#environment-resources-livelihood-and-development)
+
 ## Politics, governance, management, and development
 
 * Alhassan, A.-R. and Mamudu Abunga Akudugu (2012). Impact of Microcredit on Income Generation Capacity of Women in the Tamale Metropolitan Area of Ghana. Journal of economics and sustainable development, 3(5), pp.41–48.
