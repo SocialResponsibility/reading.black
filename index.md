@@ -1,10 +1,10 @@
 ---
 title: Welcome to Reading Black
 author: Jonny Huck
-date: 2023-11-28
-category: Jekyll
-layout: post
+layout: default
 ---
+
+# Welcome to Reading Black
 
 ## History
 
