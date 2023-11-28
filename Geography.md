@@ -5,8 +5,6 @@ author: Jonny Huck
 date: 2023-11-28
 ---
 
-# Geography
-
 * [Human Geography](#human-geography)
 * [Physical Geography](#physical-geography)
 
