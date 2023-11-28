@@ -5,6 +5,10 @@ author: Jonny Huck
 date: 2023-11-28
 ---
 
+* [Urban/Regional Planning and Governance](#urbanregional-planning-and-governance)
+* [Smart cities, spatial modelling, transportation planning](#smart-cities-spatial-modelling-transportation-planning)
+* [Sustainable Development, Disaster Risk Reduction, Environmental Justice, Climate Change](#sustainable-development-disaster-risk-reduction-environmental-justice-climate-change)
+
 ## Urban/Regional Planning and Governance
 * Pieterse, E. Cityness and African urban development.  Urban Forum, 2010. Springer, 205-219.
 * Pieterse, E. 2011. Grasping the unknowable: coming to grips with African urbanisms. Social Dynamics, 37, 5-23.
