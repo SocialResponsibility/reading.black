@@ -4,6 +4,6 @@ Reading Black began as an idea by former Geography student Regan McDonald in 202
 
 ## Contribute!
 
-The lists available on the site were initialised by a small team of PGR students. The material listed so far is only intended as a starting point, we encourage all members of SEED to contribute to the lists either by making a pull request in (GitHub)[https://github.com/SocialResponsibility/Reading.Black], or simply by sending suggestions to [sr.seed@manchester.ac.uk](mailto:sr.seed@manchester.ac.uk). Any academic works are acceptable (books, journal articles etc).
+The lists available on the site were initialised by a small team of PGR students. The material listed so far is only intended as a starting point, we encourage all members of SEED to contribute to the lists either by making a pull request in [GitHub](https://github.com/SocialResponsibility/Reading.Black), or simply by sending suggestions to [sr.seed@manchester.ac.uk](mailto:sr.seed@manchester.ac.uk). Any academic works are acceptable (books, journal articles etc).
 
 ![SEED SR Logo](images/_SEED_SR_LOGO_small.png)
