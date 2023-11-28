@@ -5,11 +5,7 @@ date: 2023-11-28
 layout: post
 ---
 
-# Education and Counselling Psychology
-
-
 * Akbar, N. (2003). Akbar papers in African psychology. Mind Productions & Associates.
-
 * AKBAR, N. (1996). Psychological legacy of slavery. Breaking the Chains of Psychological Slavery. Tallahassee: Mind Productions & Associates, 1-25.
 * Awaad, R., Elsayed, D., Ali, S., & Abid, A. (2020). Islamic psychology: A portrait of its historical origins and contributions. In Applying Islamic Principles to Clinical Mental Health Care (pp. 69-95). Routledge.
 * Breda, V. (1997). Dr.’s Jung and Tiso Exchange Dreams: Explorations of the Use of Jungian Dream Analysis in Psychotherapy with Black African Clients. Clinical Social Work Journal, 27(2), 141-154.
@@ -29,4 +25,3 @@ layout: post
 * Rothman, A., & Coyle, A. (2018). Toward a framework for Islamic psychology and psychotherapy: An Islamic model of the soul. Journal of religion and health, 57, 1731-1744.
 * Veiga, L. M. (2019). Decolonizing psychology: notes for a Black Psychology. Fractal: Revista de Psicologia, 31, 244-248.
 * Wilson, A. N. (1978). The developmental psychology of the Black child. Africana Research Publications.
-
