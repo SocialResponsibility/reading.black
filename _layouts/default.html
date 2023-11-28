@@ -23,8 +23,8 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% for page in site.pages %}
-        <a href="{{ page.url }}">{{ page.title }}</a><br>
+        {% for post in site.posts %}
+          <a href="{{ post.url }}">{{ post.title }}</a><br>
         {% endfor %}
 
         {% if site.github.is_project_page %}
