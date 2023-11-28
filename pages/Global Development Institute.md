@@ -6,10 +6,7 @@ category: Jekyll
 layout: post
 ---
 
-# Global Development Institute
-
 ## Politics, governance, management, and development
-
 
 * Alhassan, A.-R. and Mamudu Abunga Akudugu (2012). Impact of Microcredit on Income Generation Capacity of Women in the Tamale Metropolitan Area of Ghana. Journal of economics and sustainable development, 3(5), pp.41–48.
 * Alhassan, A.-R. and Abunga Akudugu, M. (2020). Supply Chain Management in African Agriculture : Innovative Approaches to Commodity Value Chains. Cham: Springer International Publishing AG.
@@ -18,9 +15,7 @@ layout: post
 * Behuria, P. and Goodfellow, T. (2016). The Political Settlement and Deals Environmentt in Rwanda: Unpacking Two Decades of Economic Growth. SSRN Electronic Journal, 55. DOI: [10.2139/ssrn.2771633](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2771633).
 * Calero, C., Bedi, A.S. and Sparrow, R. (2009). Remittances, Liquidity Constraints and Human Capital Investments in Ecuador. World Development, [online] 37(6), pp.1143–1154. DOI: [10.1016/j.worlddev.2008.10.006](https://www.sciencedirect.com/science/article/abs/pii/S0305750X08003082).
 * Das, U. (2015a). Can the Rural Employment Guarantee Scheme Reduce Rural Out-migration: Evidence from West Bengal, India. The Journal of Development Studies, 51(6), pp.621–641. DOI: [10.1080/00220388.2014.989997](https://www.tandfonline.com/doi/abs/10.1080/00220388.2014.989997?journalCode=fjds20).
-
 * Das, U. (2015b). Does Political Activism and Affiliation Affect Allocation of Benefits in the Rural Employment Guarantee Program: Evidence from West Bengal, India. World Development, 67, pp.202–217. DOI: [10.1016/j.worlddev.2014.10.009](https://www.sciencedirect.com/science/article/abs/pii/S0305750X14003039).
-
 * Das, U. (2015c). Rationing and Accuracy of Targeting in India: The Case of the Rural Employment Guarantee Act. Oxford Development Studies, 43(3), pp.361–378. DOI: [10.1080/13600818.2015.1042445](https://www.tandfonline.com/doi/abs/10.1080/13600818.2015.1042445?journalCode=cods20).
 * Srinivasan, S. and Bedi, A.S. (2007). Domestic Violence and Dowry: Evidence from a South Indian Village. World Development, 35(5), pp.857–880. DOI: [10.1016/j.worlddev.2006.08.005](https://www.sciencedirect.com/science/article/abs/pii/S0305750X07000150).
 * Pailey, R.N. (2020). De‐Centring the “White Gaze” of Development.  Development and Change, 51(3), pp. 425-425. DOI: [10.1111/dech.12550](https://onlinelibrary.wiley.com/doi/abs/10.1111/dech.12550).
@@ -46,7 +41,6 @@ layout: post
 ## Environment, resources, livelihood, and development
 
 * Ahmed, A., Lawson, E.T., Mensah, A., Gordon, C. and Padgham, J. (2016). Adaptation to climate change or non-climatic stressors in semi-arid regions? Evidence of gender differentiation in three agrarian districts of Ghana. Environmental Development, 20, pp.45–58. DOI: [10.1016/j.envdev.2016.08.002](https://www.sciencedirect.com/science/article/abs/pii/S2211464516300884).
-
 * Ahmed, A., Kuusaana, E.D. and Gasparatos, A. (2018). The role of chiefs in large-scale land acquisitions for jatropha production in Ghana: insights from agrarian political economy. Land Use Policy, [online] 75, pp.570–582. DOI: [10.1016/j.landusepol.2018.04.033](https://www.sciencedirect.com/science/article/abs/pii/S0264837716308031).
 * Abubakari, Z., van der Molen, P., Bennett, R.M. and Kuusaana, E.D. (2016). Land consolidation, customary lands, and Ghana’s Northern Savannah Ecological Zone: An evaluation of the possibilities and pitfalls. Land Use Policy, 54, pp.386–398. DOI: [10.1016/j.landusepol.2016.02.033](https://www.sciencedirect.com/science/article/abs/pii/S0264837716301776).
 * Acheampong, E.O., Macgregor, C.J., Sloan, S. and Sayer, J. (2019). Deforestation is driven by agricultural expansion in Ghana’s forest reserves. Scientific African, 5, p.e00146. DOI: [10.1016/j.sciaf.2019.e00146](https://www.sciencedirect.com/science/article/pii/S2468227619307070).
