@@ -1,16 +1,18 @@
 ---
 title: Geography
 author: Jonny Huck
-date: 2023-05-31
+date: 2023-11-28
 category: Jekyll
 layout: post
 ---
 
 # Geography
 
+[Human Geography](#human-geography)
+[Physical Geography](#physical-geography)
+
 ## Human Geography
 * Ahmed, A. and Gasparatos, A. (2020). Multi-dimensional energy poverty patterns around industrial crop projects in Ghana: Enhancing the energy poverty alleviation potential of rural development strategies. Energy Policy, 137, p.111123. DOI: [10.1016/j.enpol.2019.111123](https://www.sciencedirect.com/science/article/abs/pii/S0301421519307104).
-
 * Crush, J., Hovorka, A. and Tevera, D. (2011). Food security in Southern African cities. Progress in Development Studies, 11(4), pp.285–305. DOI: [10.1177/146499341001100402](https://journals.sagepub.com/doi/10.1177/146499341001100402).
 * Tevera, D. (2013). African Migrants, Xenophobia and Urban Violence in Post-apartheid South Africa. DOI: [10566/1632](https://repository.uwc.ac.za/xmlui/handle/10566/1632?show=full). 
 * Crush, J., Chikanda, A. and Tawodzera, G. (2015). The third wave: mixed migration from Zimbabwe to South Africa. Canadian Journal of African Studies / Revue canadienne des études africaines, 49(2), pp.363–382. DOI: [10.1080/00083968.2015.1057856](https://www.tandfonline.com/doi/abs/10.1080/00083968.2015.1057856?journalCode=rcas20).
@@ -44,7 +46,6 @@ layout: post
 
 ## Physical Geography
 * Yiran, G.A.B., Kusimi, J.M. and Kufogbe, S.K. (2012). A synthesis of remote sensing and local knowledge approaches in land degradation assessment in the Bawku East District, Ghana. International Journal of Applied Earth Observation and Geoinformation, 14(1), pp.204–213. DOI: [10.1016/j.jag.2011.09.016](https://www.sciencedirect.com/science/article/abs/pii/S0303243411001395).
-
 * Nkiaka, E., Nawaz, N.R. and Lovett, J.C. (2016). Using self-organizing maps to infill missing data in hydro-meteorological time series from the Logone catchment, Lake Chad basin. Environmental Monitoring and Assessment, 188(7). DOI: [10.1007/s10661-016-5385-1](https://link.springer.com/article/10.1007/s10661-016-5385-1).
 * Nkiaka, E., Nawaz, N.R. and Lovett, J.C. (2017). Using standardized indicators to analyse dry/wet conditions and their application for monitoring drought/floods: a study in the Logone catchment, Lake Chad basin. Hydrological Sciences Journal, 62(16), pp.2720–2736. DOI: [10.1080/02626667.2017.1409427](https://www.tandfonline.com/doi/full/10.1080/02626667.2017.1409427).
 * Nkiaka, E., et al. (2019). Identifying user needs for weather and climate services to enhance resilience to climate shocks in sub-Saharan Africa. Environmental Research Letters, 14(12), p.123003. DOI: [10.1088/1748-9326/ab4dfe](https://iopscience.iop.org/article/10.1088/1748-9326/ab4dfe).
