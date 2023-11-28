@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Education and Conselling Psychology
+title: Education and Counselling Psychology
 author: Jonny Huck
 date: 2023-11-28
 ---
