@@ -1,9 +1,9 @@
 ---
-title: Education and Counselling Psychology
+layout: post
+title: Education and Conselling Psychology
+permalink: /education.html
 author: Jonny Huck
 date: 2023-11-28
-category: Jekyll
-layout: post
 ---
 
 * Hooks, b. (1994). Teaching to Transgress: Education as the Practice of Freedom. Routledge.
