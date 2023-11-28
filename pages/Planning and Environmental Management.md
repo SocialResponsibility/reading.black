@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Planning and Environmental Management
-permalink: /pem.html
 author: Jonny Huck
 date: 2023-11-28
 ---
