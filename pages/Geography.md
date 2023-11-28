@@ -8,9 +8,8 @@ layout: post
 
 # Geography
 
-[Human Geography](#human-geography)
-
-[Physical Geography](#physical-geography)
+* [Human Geography](#human-geography)
+* [Physical Geography](#physical-geography)
 
 ## Human Geography
 * Ahmed, A. and Gasparatos, A. (2020). Multi-dimensional energy poverty patterns around industrial crop projects in Ghana: Enhancing the energy poverty alleviation potential of rural development strategies. Energy Policy, 137, p.111123. DOI: [10.1016/j.enpol.2019.111123](https://www.sciencedirect.com/science/article/abs/pii/S0301421519307104).
