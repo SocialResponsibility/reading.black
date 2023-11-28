@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Global Development Institute
-permalink: /gdi.html
 author: Jonny Huck
 date: 2023-11-28
 ---
