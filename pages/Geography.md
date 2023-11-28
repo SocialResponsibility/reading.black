@@ -9,6 +9,7 @@ layout: post
 # Geography
 
 [Human Geography](#human-geography)
+
 [Physical Geography](#physical-geography)
 
 ## Human Geography
