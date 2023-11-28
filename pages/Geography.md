@@ -1,10 +1,9 @@
 ---
+layout: post
 title: Geography
+permalink: /geography.html
 author: Jonny Huck
 date: 2023-11-28
-category: Jekyll
-layout: post
-permalink: /Geography.html
 ---
 
 # Geography
