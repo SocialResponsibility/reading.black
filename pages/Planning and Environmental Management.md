@@ -6,8 +6,6 @@ category: Jekyll
 layout: post
 ---
 
-# Planning and Environmental Management
-
 ## Urban/Regional Planning and Governance
 * Pieterse, E. Cityness and African urban development.  Urban Forum, 2010. Springer, 205-219.
 
