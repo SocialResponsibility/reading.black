@@ -1,14 +1,13 @@
 ---
+layout: post
 title: Planning and Environmental Management
+permalink: /pem.html
 author: Jonny Huck
 date: 2023-11-28
-category: Jekyll
-layout: post
 ---
 
 ## Urban/Regional Planning and Governance
 * Pieterse, E. Cityness and African urban development.  Urban Forum, 2010. Springer, 205-219.
-
 * Pieterse, E. 2011. Grasping the unknowable: coming to grips with African urbanisms. Social Dynamics, 37, 5-23.
 * Pieterse, E. 2018. The politics of governing African urban spaces. African cities and the development conundrum. Brill Nijhoff.
 * Seto, K.C., Güneralp, B. and Hutyra, L.R., 2012. Global forecasts of urban expansion to 2030 and direct impacts on biodiversity and carbon pools. Proceedings of the National Academy of Sciences, 109(40), pp.16083-16088.
@@ -36,9 +35,9 @@ layout: post
 * Komba, T., 2021. Assessment of municipal solid waste management for better-quality public health and environmental sustainability in the Freetown Metropolitan City in Sierra Leone. Journal of Geoscience and Environment Protection, 9(04), p.33.
 * Sankoh, F.P., Yan, X. and Tran, Q., 2013. Environmental and health impact of solid waste disposal in developing cities: a case study of granville brook dumpsite, Freetown, Sierra Leone. Journal of environmental protection, 2013.
 * Sankoh, F.P. and Yan, X., 2013. Problems of solid waste management in developing urban cities: a case study of Freetown, Sierra Leone. American Journal of Environmental Protection, 2(5), pp.113-120.
+
 ## Smart cities, spatial modelling, transportation planning
 * Zhong, C., Arisona, S. M., Huang, X., Batty, M. & Schmitt, G. 2014. Detecting the dynamics of urban structure through spatial network analysis. International Journal of Geographical Information Science, 28, 2178-2199.
-
 * Zhong, C., Arisona, S. M., Huang, X. & Schmitt, G. 2013. Identifying Spatial Structure of Urban Functional Centers Using Travel Survey Data: A Case Study of Singapore. Proceedings of The First ACM SIGSPATIAL International Workshop on Computational Models of Place. Orlando FL, USA: Association for Computing Machinery.
 * Zhong, C., Schläpfer, M., Müller Arisona, S., Batty, M., Ratti, C. & Schmitt, G. 2017. Revealing centrality in the spatial structure of cities from human activity patterns. Urban Studies, 54, 437-455.
 * El-Geneidy, A., Levinson, D., Diab, E., Boisjoly, G., Verbich, D. & Loong, C. 2016. The cost of equity: Assessing transit accessibility and social disparity using total travel cost. Transportation Research Part A: Policy and Practice, 91, 302-316.
@@ -52,7 +51,6 @@ layout: post
 
 ## Sustainable Development, Disaster Risk Reduction, Environmental Justice, Climate Change
 * Kollmuss, A. and Agyeman, J., 2002. Mind the gap: why do people act environmentally and what are the barriers to pro-environmental behavior?. Environmental education research, 8(3), pp.239-260.
-
 * Agyeman, J., Bullard, R.D. and Evans, B. eds., 2003. Just sustainabilities: Development in an unequal world. MIT press.
 * Agyeman, J., 2005. Sustainable Communities and the Challenge of Environmental Justice. In Sustainable Communities and the Challenge of Environmental Justice. New York University Press.
 * Taylor, Dorceta. (2016). The Rise of the American Conservation Movement: Power, Privilege, and Environmental Protection. DOI: [10.1515/9780822373971](https://www.jstor.org/stable/j.ctv11qdxtg).
