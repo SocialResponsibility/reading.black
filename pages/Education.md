@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Education and Conselling Psychology
-permalink: /education.html
 author: Jonny Huck
 date: 2023-11-28
 ---
