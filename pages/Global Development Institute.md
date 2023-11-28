@@ -1,9 +1,9 @@
 ---
-title: Global Development Institute
-author: Jonny Huck
-date: 2023-05-31
-category: Jekyll
 layout: post
+title: Global Development Institute
+permalink: /gdi.html
+author: Jonny Huck
+date: 2023-11-28
 ---
 
 ## Politics, governance, management, and development
